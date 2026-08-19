@@ -1,0 +1,6 @@
+{
+  "name": "Ajith & Keerthana Wedding",
+  "description": "An ultra-luxurious dark obsidian and velvet crimson wedding invitation and celebration website for Ajith and Keerthana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
